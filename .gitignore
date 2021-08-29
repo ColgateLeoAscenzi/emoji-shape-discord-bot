@@ -1,4 +1,14 @@
+#Node
+node_modules
+
+#Env Files
+*.local
+
+#Editors
 .idea
 .idea/vcs.xml
 .idea/emoji-shape-discord-bot.iml
 .idea/modules.xml
+yarn-error.log
+node_modules/.yarn-integrity
+

@@ -1,0 +1,11 @@
+{
+  "name": "emoji-shape-discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ColgateLeoAscenzi/emoji-shape-discord-bot.git",
+  "author": "Leonardo Ascenzi <lascenzi@colgate.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
